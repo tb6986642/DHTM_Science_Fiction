@@ -1,0 +1,329 @@
+Source,Target,Weight,Type
+A Christmas Carol,A Connecticut Yankee in King Arthur_s Court,6,undirected
+A Christmas Carol,The Left Hand of Darkness ( PDFDrive ),1,undirected
+A Christmas Carol,The Strange Case of Dr. Jekyll and Mr. Hyde,5,undirected
+A Connecticut Yankee in King Arthur_s Court,A Christmas Carol,6,undirected
+A Connecticut Yankee in King Arthur_s Court,A Pail of Air,1,undirected
+A Connecticut Yankee in King Arthur_s Court,Dracula,2,undirected
+A Connecticut Yankee in King Arthur_s Court,The Left Hand of Darkness ( PDFDrive ),4,undirected
+A Connecticut Yankee in King Arthur_s Court,the princess bride the princess bride,2,undirected
+A Connecticut Yankee in King Arthur_s Court,The Rest of the Robots ( PDFDrive ),1,undirected
+A Connecticut Yankee in King Arthur_s Court,The Strange Case of Dr. Jekyll and Mr. Hyde,2,undirected
+A Pail of Air,A Connecticut Yankee in King Arthur_s Court,1,undirected
+A Pail of Air,The Big Time,3,undirected
+A Pail of Air,The Defenders,2,undirected
+A Swiftly Tilting Planet,Alexander, Lloyd - Chronicles of Prydain 4 - Taran Wanderer(2) ,6,undirected
+A Swiftly Tilting Planet,do-androids-dream-of-electric-sheep,2,undirected
+A Swiftly Tilting Planet,Dracula,3,undirected
+A Swiftly Tilting Planet,faded-sun,4,undirected
+A Swiftly Tilting Planet,The Clan of the Cave Bear ( PDFDrive ),3,undirected
+A Swiftly Tilting Planet,The King in Yellow,3,undirected
+A Swiftly Tilting Planet,the princess bride the princess bride,3,undirected
+A Swiftly Tilting Planet,Welcome to the Monkey House ( PDFDrive ),1,undirected
+A Swiftly Tilting Planet,Who Goes There_Book,3,undirected
+After London or, Wild England,Around the World in Eighty Days,1,undirected
+After London or, Wild England,orwellanimalfarm,2,undirected
+After London or, Wild England,The Mysterious Island,2,undirected
+After London or, Wild England,The Time Traders,6,undirected
+Alexander, Lloyd - Chronicles of Prydain 4 - Taran Wanderer(2) ,A Swiftly Tilting Planet,6,undirected
+Alexander, Lloyd - Chronicles of Prydain 4 - Taran Wanderer(2) ,The Left Hand of Darkness ( PDFDrive ),1,undirected
+Alexander, Lloyd - Chronicles of Prydain 4 - Taran Wanderer(2) ,The Rest of the Robots ( PDFDrive ),2,undirected
+Alice_s Adventures in Wonderland by Lewis Carroll,Masters of the vortex,2,undirected
+Alice_s Adventures in Wonderland by Lewis Carroll,The Phantom Tollbooth,1,undirected
+Alice_s Adventures in Wonderland by Lewis Carroll,Watership Down ( PDFDrive ),1,undirected
+Alice_s Adventures in Wonderland by Lewis Carroll,Welcome to the Monkey House ( PDFDrive ),3,undirected
+Anthem,From the Earth to the Moon,3,undirected
+Anthem,Looking Backward 2000-1887,1,undirected
+Anthem,Skylark Three,2,undirected
+Around the World in Eighty Days,After London or, Wild England,1,undirected
+Around the World in Eighty Days,Frankenstein The 1818 Text,2,undirected
+Around the World in Eighty Days,From the Earth to the Moon,2,undirected
+Around the World in Eighty Days,Sinclair Lewis - It Cant Happen Here,1,undirected
+Around the World in Eighty Days,The Last Man,2,undirected
+Around the World in Eighty Days,The Mysterious Island,4,undirected
+Around the World in Eighty Days,Twenty Thousand Leagues under the Sea by Jules Verne,5,undirected
+Asimov, Isaac - Bicentennial Man _ Other Stories, The - Isaac Asimov,Gray Lensman,1,undirected
+Asimov, Isaac - Bicentennial Man _ Other Stories, The - Isaac Asimov,Masters of the vortex,2,undirected
+Asimov, Isaac - Bicentennial Man _ Other Stories, The - Isaac Asimov,The Rest of the Robots ( PDFDrive ),6,undirected
+Beauty_ A Retelling of the Story of Beauty and the Beast,Charlotte Sometimes ( PDFDrive ),2,undirected
+Beauty_ A Retelling of the Story of Beauty and the Beast,Kindred,1,undirected
+Beauty_ A Retelling of the Story of Beauty and the Beast,The Big Time,1,undirected
+Beauty_ A Retelling of the Story of Beauty and the Beast,The First Men in the Moon,2,undirected
+Beauty_ A Retelling of the Story of Beauty and the Beast,The Left Hand of Darkness ( PDFDrive ),3,undirected
+Bring the Jubilee,Gray Lensman,3,undirected
+Bring the Jubilee,Looking Backward 2000-1887,4,undirected
+Bring the Jubilee,Simulacron-3 (The Thirteenth Floor) ( PDFDrive ),1,undirected
+Bring the Jubilee,The Clan of the Cave Bear ( PDFDrive ),1,undirected
+Bring the Jubilee,The Left Hand of Darkness ( PDFDrive ),1,undirected
+Charlotte Sometimes ( PDFDrive ),Beauty_ A Retelling of the Story of Beauty and the Beast,2,undirected
+Charlotte Sometimes ( PDFDrive ),Masters of the vortex,1,undirected
+Charlotte Sometimes ( PDFDrive ),The Clan of the Cave Bear ( PDFDrive ),5,undirected
+CrookedHouse,do-androids-dream-of-electric-sheep,1,undirected
+CrookedHouse,Roadside Picnic,3,undirected
+CrookedHouse,Who Goes There_Book,2,undirected
+do-androids-dream-of-electric-sheep,A Swiftly Tilting Planet,2,undirected
+do-androids-dream-of-electric-sheep,CrookedHouse,1,undirected
+do-androids-dream-of-electric-sheep,Kindred,2,undirected
+do-androids-dream-of-electric-sheep,The Rest of the Robots ( PDFDrive ),1,undirected
+do-androids-dream-of-electric-sheep,Welcome to the Monkey House ( PDFDrive ),5,undirected
+do-androids-dream-of-electric-sheep,Who Goes There_Book,2,undirected
+Dracula,A Connecticut Yankee in King Arthur_s Court,2,undirected
+Dracula,A Swiftly Tilting Planet,3,undirected
+Dracula,The Left Hand of Darkness ( PDFDrive ),1,undirected
+faded-sun,A Swiftly Tilting Planet,4,undirected
+faded-sun,OutofSilentPlanet_CSL,1,undirected
+faded-sun,The Time Traders,2,undirected
+First Lensman,Gray Lensman,5,undirected
+First Lensman,Masters of the vortex,5,undirected
+First Lensman,The Rest of the Robots ( PDFDrive ),1,undirected
+First Lensman,Triplanetary,1,undirected
+Flatland A Romance of Many Dimensions,Looking Backward 2000-1887,6,undirected
+Flatland A Romance of Many Dimensions,Skylark Three,1,undirected
+Flatland A Romance of Many Dimensions,The Strange Case of Dr. Jekyll and Mr. Hyde,2,undirected
+Flatland A Romance of Many Dimensions,Utopia,2,undirected
+Frankenstein The 1818 Text,Around the World in Eighty Days,2,undirected
+Frankenstein The 1818 Text,The Last Man,6,undirected
+Frankenstein The 1818 Text,The Strange Case of Dr. Jekyll and Mr. Hyde,1,undirected
+From the Earth to the Moon,Anthem,3,undirected
+From the Earth to the Moon,Around the World in Eighty Days,2,undirected
+From the Earth to the Moon,Last_and_First_Men,1,undirected
+From the Earth to the Moon,Looking Backward 2000-1887,1,undirected
+From the Earth to the Moon,StarMaker,1,undirected
+From the Earth to the Moon,The Mysterious Island,5,undirected
+From the Earth to the Moon,Twenty Thousand Leagues under the Sea by Jules Verne,6,undirected
+From the Earth to the Moon,Utopia,1,undirected
+Galactic patrol,Gray Lensman,6,undirected
+Galactic patrol,OutofSilentPlanet_CSL,2,undirected
+Galactic patrol,Perelandra_CSL,2,undirected
+Galactic patrol,Rendezvous with Rama ( PDFDrive ),1,undirected
+Galactic patrol,Skylark of Valeron,3,undirected
+Galactic patrol,Skylark Three,1,undirected
+Galactic patrol,The Time Traders,2,undirected
+Galactic patrol,Triplanetary,4,undirected
+Gray Lensman,Asimov, Isaac - Bicentennial Man _ Other Stories, The - Isaac Asimov,1,undirected
+Gray Lensman,Bring the Jubilee,3,undirected
+Gray Lensman,First Lensman,5,undirected
+Gray Lensman,Galactic patrol,6,undirected
+Gray Lensman,Masters of the vortex,2,undirected
+Gray Lensman,OutofSilentPlanet_CSL,1,undirected
+Gray Lensman,Perelandra_CSL,1,undirected
+Gray Lensman,Skylark of Valeron,1,undirected
+Gray Lensman,The Rest of the Robots ( PDFDrive ),2,undirected
+Gray Lensman,Triplanetary,2,undirected
+Greylorn,Joe Haldeman - The Forever War,5,undirected
+Greylorn,The Big Time,2,undirected
+Greylorn,The Defenders,1,undirected
+Greylorn,The Left Hand of Darkness ( PDFDrive ),1,undirected
+Joe Haldeman - The Forever War,Greylorn,5,undirected
+Joe Haldeman - The Forever War,Roadside Picnic,1,undirected
+Joe Haldeman - The Forever War,Simulacron-3 (The Thirteenth Floor) ( PDFDrive ),3,undirected
+Joe Haldeman - The Forever War,The Big Time,6,undirected
+Joe Haldeman - The Forever War,The Left Hand of Darkness ( PDFDrive ),1,undirected
+Kindred,Beauty_ A Retelling of the Story of Beauty and the Beast,1,undirected
+Kindred,do-androids-dream-of-electric-sheep,2,undirected
+Kindred,Welcome to the Monkey House ( PDFDrive ),3,undirected
+Last_and_First_Men,From the Earth to the Moon,1,undirected
+Last_and_First_Men,lovecraft_at_the_mountains_of_madness,2,undirected
+Last_and_First_Men,StarMaker,6,undirected
+Looking Backward 2000-1887,Anthem,1,undirected
+Looking Backward 2000-1887,Bring the Jubilee,4,undirected
+Looking Backward 2000-1887,Flatland A Romance of Many Dimensions,6,undirected
+Looking Backward 2000-1887,From the Earth to the Moon,1,undirected
+Looking Backward 2000-1887,Utopia,3,undirected
+lovecraft_at_the_mountains_of_madness,Last_and_First_Men,2,undirected
+lovecraft_at_the_mountains_of_madness,StarMaker,5,undirected
+lovecraft_at_the_mountains_of_madness,The Last Man,2,undirected
+lovecraft_at_the_mountains_of_madness,The War of the Worlds,1,undirected
+Masters of the vortex,Alice_s Adventures in Wonderland by Lewis Carroll,2,undirected
+Masters of the vortex,Asimov, Isaac - Bicentennial Man _ Other Stories, The - Isaac Asimov,2,undirected
+Masters of the vortex,Charlotte Sometimes ( PDFDrive ),1,undirected
+Masters of the vortex,First Lensman,5,undirected
+Masters of the vortex,Gray Lensman,2,undirected
+Masters of the vortex,Triplanetary,1,undirected
+Masters of the vortex,Watership Down ( PDFDrive ),1,undirected
+orwellanimalfarm,After London or, Wild England,2,undirected
+orwellanimalfarm,Sinclair Lewis - It Cant Happen Here,1,undirected
+orwellanimalfarm,slaughterhouse_-_five,1,undirected
+orwellanimalfarm,ThePlague-Camus,5,undirected
+OutofSilentPlanet_CSL,faded-sun,1,undirected
+OutofSilentPlanet_CSL,Galactic patrol,2,undirected
+OutofSilentPlanet_CSL,Gray Lensman,1,undirected
+OutofSilentPlanet_CSL,Perelandra_CSL,6,undirected
+OutofSilentPlanet_CSL,Rendezvous with Rama ( PDFDrive ),2,undirected
+OutofSilentPlanet_CSL,The City of Gold and Lead ( PDFDrive ),1,undirected
+OutofSilentPlanet_CSL,The Nine Billion Names of God_ The Collected Stories of Arthur C. Clarke, 1951-1956 ( PDFDrive ),2,undirected
+OutofSilentPlanet_CSL,Watership Down ( PDFDrive ),2,undirected
+Perelandra_CSL,Galactic patrol,2,undirected
+Perelandra_CSL,Gray Lensman,1,undirected
+Perelandra_CSL,OutofSilentPlanet_CSL,6,undirected
+Perelandra_CSL,The Nine Billion Names of God_ The Collected Stories of Arthur C. Clarke, 1951-1956 ( PDFDrive ),1,undirected
+Rendezvous with Rama ( PDFDrive ),Galactic patrol,1,undirected
+Rendezvous with Rama ( PDFDrive ),OutofSilentPlanet_CSL,2,undirected
+Rendezvous with Rama ( PDFDrive ),The Nine Billion Names of God_ The Collected Stories of Arthur C. Clarke, 1951-1956 ( PDFDrive ),6,undirected
+Roadside Picnic,CrookedHouse,3,undirected
+Roadside Picnic,Joe Haldeman - The Forever War,1,undirected
+Roadside Picnic,Second Variety,2,undirected
+Roadside Picnic,Simulacron-3 (The Thirteenth Floor) ( PDFDrive ),2,undirected
+Roadside Picnic,The Big Time,3,undirected
+Roadside Picnic,Welcome to the Monkey House ( PDFDrive ),6,undirected
+Second Variety,Roadside Picnic,2,undirected
+Second Variety,The Defenders,3,undirected
+Second Variety,The Skull,5,undirected
+Simulacron-3 (The Thirteenth Floor) ( PDFDrive ),Bring the Jubilee,1,undirected
+Simulacron-3 (The Thirteenth Floor) ( PDFDrive ),Joe Haldeman - The Forever War,3,undirected
+Simulacron-3 (The Thirteenth Floor) ( PDFDrive ),Roadside Picnic,2,undirected
+Sinclair Lewis - It Cant Happen Here,Around the World in Eighty Days,1,undirected
+Sinclair Lewis - It Cant Happen Here,orwellanimalfarm,1,undirected
+Sinclair Lewis - It Cant Happen Here,slaughterhouse_-_five,2,undirected
+Sinclair Lewis - It Cant Happen Here,The Left Hand of Darkness ( PDFDrive ),2,undirected
+Sinclair Lewis - It Cant Happen Here,ThePlague-Camus,6,undirected
+Skylark of Valeron,Galactic patrol,3,undirected
+Skylark of Valeron,Gray Lensman,1,undirected
+Skylark of Valeron,Skylark Three,3,undirected
+Skylark of Valeron,Triplanetary,6,undirected
+Skylark Three,Anthem,2,undirected
+Skylark Three,Flatland A Romance of Many Dimensions,1,undirected
+Skylark Three,Galactic patrol,1,undirected
+Skylark Three,Skylark of Valeron,3,undirected
+Skylark Three,Triplanetary,2,undirected
+slaughterhouse_-_five,orwellanimalfarm,1,undirected
+slaughterhouse_-_five,Sinclair Lewis - It Cant Happen Here,2,undirected
+slaughterhouse_-_five,ThePlague-Camus,3,undirected
+StarMaker,From the Earth to the Moon,1,undirected
+StarMaker,Last_and_First_Men,6,undirected
+StarMaker,lovecraft_at_the_mountains_of_madness,5,undirected
+The Big Time,A Pail of Air,3,undirected
+The Big Time,Beauty_ A Retelling of the Story of Beauty and the Beast,1,undirected
+The Big Time,Greylorn,2,undirected
+The Big Time,Joe Haldeman - The Forever War,6,undirected
+The Big Time,Roadside Picnic,3,undirected
+The Big Time,The Left Hand of Darkness ( PDFDrive ),2,undirected
+The City of Gold and Lead ( PDFDrive ),OutofSilentPlanet_CSL,1,undirected
+The City of Gold and Lead ( PDFDrive ),The Left Hand of Darkness ( PDFDrive ),3,undirected
+The City of Gold and Lead ( PDFDrive ),The Time Traders,2,undirected
+The Clan of the Cave Bear ( PDFDrive ),A Swiftly Tilting Planet,3,undirected
+The Clan of the Cave Bear ( PDFDrive ),Bring the Jubilee,1,undirected
+The Clan of the Cave Bear ( PDFDrive ),Charlotte Sometimes ( PDFDrive ),5,undirected
+The Defenders,A Pail of Air,2,undirected
+The Defenders,Greylorn,1,undirected
+The Defenders,Second Variety,3,undirected
+The Defenders,The Skull,6,undirected
+The First Men in the Moon,Beauty_ A Retelling of the Story of Beauty and the Beast,2,undirected
+The First Men in the Moon,The Left Hand of Darkness ( PDFDrive ),4,undirected
+The First Men in the Moon,The Purple Cloud,1,undirected
+The First Men in the Moon,The Time Machine,6,undirected
+The First Men in the Moon,The War of the Worlds,3,undirected
+The Invisible Man,The Island of Doctor Moreau,2,undirected
+The Invisible Man,The King in Yellow,5,undirected
+The Invisible Man,When the Sleeper Wakes,6,undirected
+The Island of Doctor Moreau,The Invisible Man,2,undirected
+The Island of Doctor Moreau,The King in Yellow,2,undirected
+The Island of Doctor Moreau,The Time Machine,4,undirected
+The Island of Doctor Moreau,The War of the Worlds,6,undirected
+The Island of Doctor Moreau,When the Sleeper Wakes,1,undirected
+The King in Yellow,A Swiftly Tilting Planet,3,undirected
+The King in Yellow,The Invisible Man,5,undirected
+The King in Yellow,The Island of Doctor Moreau,2,undirected
+The Last Man,Around the World in Eighty Days,2,undirected
+The Last Man,Frankenstein The 1818 Text,6,undirected
+The Last Man,lovecraft_at_the_mountains_of_madness,2,undirected
+The Last Man,Twenty Thousand Leagues under the Sea by Jules Verne,1,undirected
+The Left Hand of Darkness ( PDFDrive ),A Christmas Carol,1,undirected
+The Left Hand of Darkness ( PDFDrive ),A Connecticut Yankee in King Arthur_s Court,4,undirected
+The Left Hand of Darkness ( PDFDrive ),Alexander, Lloyd - Chronicles of Prydain 4 - Taran Wanderer(2) ,1,undirected
+The Left Hand of Darkness ( PDFDrive ),Beauty_ A Retelling of the Story of Beauty and the Beast,3,undirected
+The Left Hand of Darkness ( PDFDrive ),Bring the Jubilee,1,undirected
+The Left Hand of Darkness ( PDFDrive ),Dracula,1,undirected
+The Left Hand of Darkness ( PDFDrive ),Greylorn,1,undirected
+The Left Hand of Darkness ( PDFDrive ),Joe Haldeman - The Forever War,1,undirected
+The Left Hand of Darkness ( PDFDrive ),Sinclair Lewis - It Cant Happen Here,2,undirected
+The Left Hand of Darkness ( PDFDrive ),The Big Time,2,undirected
+The Left Hand of Darkness ( PDFDrive ),The City of Gold and Lead ( PDFDrive ),3,undirected
+The Left Hand of Darkness ( PDFDrive ),The First Men in the Moon,4,undirected
+The Left Hand of Darkness ( PDFDrive ),The Purple Cloud,2,undirected
+The Left Hand of Darkness ( PDFDrive ),The Strange Case of Dr. Jekyll and Mr. Hyde,1,undirected
+The Left Hand of Darkness ( PDFDrive ),ThePlague-Camus,1,undirected
+The Mysterious Island,After London or, Wild England,2,undirected
+The Mysterious Island,Around the World in Eighty Days,4,undirected
+The Mysterious Island,From the Earth to the Moon,5,undirected
+The Mysterious Island,Twenty Thousand Leagues under the Sea by Jules Verne,2,undirected
+The Nine Billion Names of God_ The Collected Stories of Arthur C. Clarke, 1951-1956 ( PDFDrive ),OutofSilentPlanet_CSL,2,undirected
+The Nine Billion Names of God_ The Collected Stories of Arthur C. Clarke, 1951-1956 ( PDFDrive ),Perelandra_CSL,1,undirected
+The Nine Billion Names of God_ The Collected Stories of Arthur C. Clarke, 1951-1956 ( PDFDrive ),Rendezvous with Rama ( PDFDrive ),6,undirected
+The Phantom Tollbooth,Alice_s Adventures in Wonderland by Lewis Carroll,1,undirected
+The Phantom Tollbooth,Watership Down ( PDFDrive ),2,undirected
+The Phantom Tollbooth,Welcome to the Monkey House ( PDFDrive ),3,undirected
+the princess bride the princess bride,A Connecticut Yankee in King Arthur_s Court,2,undirected
+the princess bride the princess bride,A Swiftly Tilting Planet,3,undirected
+the princess bride the princess bride,The Rest of the Robots ( PDFDrive ),1,undirected
+The Purple Cloud,The First Men in the Moon,1,undirected
+The Purple Cloud,The Left Hand of Darkness ( PDFDrive ),2,undirected
+The Purple Cloud,The Time Machine,3,undirected
+The Rest of the Robots ( PDFDrive ),A Connecticut Yankee in King Arthur_s Court,1,undirected
+The Rest of the Robots ( PDFDrive ),Alexander, Lloyd - Chronicles of Prydain 4 - Taran Wanderer(2) ,2,undirected
+The Rest of the Robots ( PDFDrive ),Asimov, Isaac - Bicentennial Man _ Other Stories, The - Isaac Asimov,6,undirected
+The Rest of the Robots ( PDFDrive ),do-androids-dream-of-electric-sheep,1,undirected
+The Rest of the Robots ( PDFDrive ),First Lensman,1,undirected
+The Rest of the Robots ( PDFDrive ),Gray Lensman,2,undirected
+The Rest of the Robots ( PDFDrive ),the princess bride the princess bride,1,undirected
+The Skull,Second Variety,5,undirected
+The Skull,The Defenders,6,undirected
+The Skull,When the Sleeper Wakes,1,undirected
+The Strange Case of Dr. Jekyll and Mr. Hyde,A Christmas Carol,5,undirected
+The Strange Case of Dr. Jekyll and Mr. Hyde,A Connecticut Yankee in King Arthur_s Court,2,undirected
+The Strange Case of Dr. Jekyll and Mr. Hyde,Flatland A Romance of Many Dimensions,2,undirected
+The Strange Case of Dr. Jekyll and Mr. Hyde,Frankenstein The 1818 Text,1,undirected
+The Strange Case of Dr. Jekyll and Mr. Hyde,The Left Hand of Darkness ( PDFDrive ),1,undirected
+The Time Machine,The First Men in the Moon,6,undirected
+The Time Machine,The Island of Doctor Moreau,4,undirected
+The Time Machine,The Purple Cloud,3,undirected
+The Time Machine,The War of the Worlds,3,undirected
+The Time Traders,After London or, Wild England,6,undirected
+The Time Traders,faded-sun,2,undirected
+The Time Traders,Galactic patrol,2,undirected
+The Time Traders,The City of Gold and Lead ( PDFDrive ),2,undirected
+The Time Traders,ThePlague-Camus,2,undirected
+The War of the Worlds,lovecraft_at_the_mountains_of_madness,1,undirected
+The War of the Worlds,The First Men in the Moon,3,undirected
+The War of the Worlds,The Island of Doctor Moreau,6,undirected
+The War of the Worlds,The Time Machine,3,undirected
+The War of the Worlds,When the Sleeper Wakes,2,undirected
+ThePlague-Camus,orwellanimalfarm,5,undirected
+ThePlague-Camus,Sinclair Lewis - It Cant Happen Here,6,undirected
+ThePlague-Camus,slaughterhouse_-_five,3,undirected
+ThePlague-Camus,The Left Hand of Darkness ( PDFDrive ),1,undirected
+ThePlague-Camus,The Time Traders,2,undirected
+Triplanetary,First Lensman,1,undirected
+Triplanetary,Galactic patrol,4,undirected
+Triplanetary,Gray Lensman,2,undirected
+Triplanetary,Masters of the vortex,1,undirected
+Triplanetary,Skylark of Valeron,6,undirected
+Triplanetary,Skylark Three,2,undirected
+Triplanetary,Who Goes There_Book,1,undirected
+Twenty Thousand Leagues under the Sea by Jules Verne,Around the World in Eighty Days,5,undirected
+Twenty Thousand Leagues under the Sea by Jules Verne,From the Earth to the Moon,6,undirected
+Twenty Thousand Leagues under the Sea by Jules Verne,The Last Man,1,undirected
+Twenty Thousand Leagues under the Sea by Jules Verne,The Mysterious Island,2,undirected
+Utopia,Flatland A Romance of Many Dimensions,2,undirected
+Utopia,From the Earth to the Moon,1,undirected
+Utopia,Looking Backward 2000-1887,3,undirected
+Watership Down ( PDFDrive ),Alice_s Adventures in Wonderland by Lewis Carroll,1,undirected
+Watership Down ( PDFDrive ),Masters of the vortex,1,undirected
+Watership Down ( PDFDrive ),OutofSilentPlanet_CSL,2,undirected
+Watership Down ( PDFDrive ),The Phantom Tollbooth,2,undirected
+Watership Down ( PDFDrive ),Welcome to the Monkey House ( PDFDrive ),3,undirected
+Welcome to the Monkey House ( PDFDrive ),A Swiftly Tilting Planet,1,undirected
+Welcome to the Monkey House ( PDFDrive ),Alice_s Adventures in Wonderland by Lewis Carroll,3,undirected
+Welcome to the Monkey House ( PDFDrive ),do-androids-dream-of-electric-sheep,5,undirected
+Welcome to the Monkey House ( PDFDrive ),Kindred,3,undirected
+Welcome to the Monkey House ( PDFDrive ),Roadside Picnic,6,undirected
+Welcome to the Monkey House ( PDFDrive ),The Phantom Tollbooth,3,undirected
+Welcome to the Monkey House ( PDFDrive ),Watership Down ( PDFDrive ),3,undirected
+When the Sleeper Wakes,The Invisible Man,6,undirected
+When the Sleeper Wakes,The Island of Doctor Moreau,1,undirected
+When the Sleeper Wakes,The Skull,1,undirected
+When the Sleeper Wakes,The War of the Worlds,2,undirected
+Who Goes There_Book,A Swiftly Tilting Planet,3,undirected
+Who Goes There_Book,CrookedHouse,2,undirected
+Who Goes There_Book,do-androids-dream-of-electric-sheep,2,undirected
+Who Goes There_Book,Triplanetary,1,undirected
