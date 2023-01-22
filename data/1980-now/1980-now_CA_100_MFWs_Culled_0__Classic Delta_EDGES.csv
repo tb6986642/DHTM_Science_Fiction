@@ -1,0 +1,143 @@
+Source,Target,Weight,Type
+A Court of Thorns and Roses,Cress,1,undirected
+A Court of Thorns and Roses,Crown of Midnight Throne of Glass,4,undirected
+A Court of Thorns and Roses,Outlander,3,undirected
+A Court of Thorns and Roses,Throne-of-Glass,5,undirected
+Catching Fire ,Divergent,2,undirected
+Catching Fire ,Insurgent,4,undirected
+Catching Fire ,The Handmaids Tale,2,undirected
+Catching Fire ,The Hunger Games,6,undirected
+Catching Fire ,The Martian,2,undirected
+Catching Fire ,The-One,2,undirected
+City of Bones,Ready-Player-One,3,undirected
+City of Bones,SPEAKER-FOR-THE-DEAD-_c_-1986-Orson-Scott-Card,1,undirected
+City of Bones,The Lightning Thief,2,undirected
+City of Bones.txt.part,Clockwork Princess,3,undirected
+City of Bones.txt.part,Guards Guards,1,undirected
+City of Bones.txt.part,Harry Potter and the Chamber of Secrets,1,undirected
+City of Bones.txt.part,Scarlet,2,undirected
+City of Bones.txt.part,The Last Wish,2,undirected
+City of Bones.txt.part,The Lightning Thief,6,undirected
+Clockwork Princess,City of Bones.txt.part,3,undirected
+Clockwork Princess,Cress,1,undirected
+Clockwork Princess,The Giver,2,undirected
+Clockwork Princess,Throne-of-Glass,2,undirected
+Cress,A Court of Thorns and Roses,1,undirected
+Cress,Clockwork Princess,1,undirected
+Cress,Crown of Midnight Throne of Glass,2,undirected
+Cress,Harry Potter and the Chamber of Secrets,1,undirected
+Cress,Outlander,1,undirected
+Cress,Scarlet,6,undirected
+Cress,SPEAKER-FOR-THE-DEAD-_c_-1986-Orson-Scott-Card,1,undirected
+Cress,The Girl with the Dragon Tattoo,2,undirected
+Cress,The-Girl-Who-Played-with-Fire,1,undirected
+Cress,The-One,1,undirected
+Cress,Throne-of-Glass,2,undirected
+Crown of Midnight Throne of Glass,A Court of Thorns and Roses,4,undirected
+Crown of Midnight Throne of Glass,Cress,2,undirected
+Crown of Midnight Throne of Glass,The Invisible Life of Addie LaRue,3,undirected
+Crown of Midnight Throne of Glass,The Maze Runner,1,undirected
+Crown of Midnight Throne of Glass,Throne-of-Glass,4,undirected
+Divergent,Catching Fire ,2,undirected
+Divergent,Insurgent,6,undirected
+Divergent,Red-Queen,5,undirected
+Divergent,The Hunger Games,1,undirected
+Enders Game,Harry Potter and the Sorcerer_s Stone,2,undirected
+Enders Game,SPEAKER-FOR-THE-DEAD-_c_-1986-Orson-Scott-Card,6,undirected
+Enders Game,The-One,1,undirected
+Good Omens The Nice and Accurate Prophecies of Agnes Nutter Witch ,Guards Guards,6,undirected
+Good Omens The Nice and Accurate Prophecies of Agnes Nutter Witch ,Harry Potter and the Sorcerer_s Stone,1,undirected
+Good Omens The Nice and Accurate Prophecies of Agnes Nutter Witch ,Ready-Player-One,1,undirected
+Good Omens The Nice and Accurate Prophecies of Agnes Nutter Witch ,The Lightning Thief,3,undirected
+Guards Guards,City of Bones.txt.part,1,undirected
+Guards Guards,Good Omens The Nice and Accurate Prophecies of Agnes Nutter Witch ,6,undirected
+Guards Guards,Harry Potter and the Sorcerer_s Stone,2,undirected
+Guards Guards,The Lightning Thief,2,undirected
+Harry Potter and the Chamber of Secrets,City of Bones.txt.part,1,undirected
+Harry Potter and the Chamber of Secrets,Cress,1,undirected
+Harry Potter and the Chamber of Secrets,Harry Potter and the Sorcerer_s Stone,6,undirected
+Harry Potter and the Chamber of Secrets,Scarlet,3,undirected
+Harry Potter and the Chamber of Secrets,The Maze Runner,2,undirected
+Harry Potter and the Sorcerer_s Stone,Enders Game,2,undirected
+Harry Potter and the Sorcerer_s Stone,Good Omens The Nice and Accurate Prophecies of Agnes Nutter Witch ,1,undirected
+Harry Potter and the Sorcerer_s Stone,Guards Guards,2,undirected
+Harry Potter and the Sorcerer_s Stone,Harry Potter and the Chamber of Secrets,6,undirected
+Harry Potter and the Sorcerer_s Stone,Scarlet,2,undirected
+Harry Potter and the Sorcerer_s Stone,The Maze Runner,4,undirected
+Insurgent,Catching Fire ,4,undirected
+Insurgent,Divergent,6,undirected
+Insurgent,Red-Queen,2,undirected
+Insurgent,The Handmaids Tale,1,undirected
+Insurgent,The Hunger Games,3,undirected
+Insurgent,The-One,3,undirected
+Outlander,A Court of Thorns and Roses,3,undirected
+Outlander,Cress,1,undirected
+Outlander,Ready-Player-One,5,undirected
+Outlander,The Girl with the Dragon Tattoo,1,undirected
+Outlander,The Last Wish,3,undirected
+Outlander,The-Girl-Who-Played-with-Fire,2,undirected
+Ready-Player-One,City of Bones,3,undirected
+Ready-Player-One,Good Omens The Nice and Accurate Prophecies of Agnes Nutter Witch ,1,undirected
+Ready-Player-One,Outlander,5,undirected
+Ready-Player-One,The Lightning Thief,2,undirected
+Ready-Player-One,The Martian,1,undirected
+Red-Queen,Divergent,5,undirected
+Red-Queen,Insurgent,2,undirected
+Red-Queen,The Hunger Games,1,undirected
+Scarlet,City of Bones.txt.part,2,undirected
+Scarlet,Cress,6,undirected
+Scarlet,Harry Potter and the Chamber of Secrets,3,undirected
+Scarlet,Harry Potter and the Sorcerer_s Stone,2,undirected
+Scarlet,The Invisible Life of Addie LaRue,1,undirected
+Scarlet,Throne-of-Glass,5,undirected
+SPEAKER-FOR-THE-DEAD-_c_-1986-Orson-Scott-Card,City of Bones,1,undirected
+SPEAKER-FOR-THE-DEAD-_c_-1986-Orson-Scott-Card,Cress,1,undirected
+SPEAKER-FOR-THE-DEAD-_c_-1986-Orson-Scott-Card,Enders Game,6,undirected
+SPEAKER-FOR-THE-DEAD-_c_-1986-Orson-Scott-Card,The Giver,5,undirected
+The Girl with the Dragon Tattoo,Cress,2,undirected
+The Girl with the Dragon Tattoo,Outlander,1,undirected
+The Girl with the Dragon Tattoo,The-Girl-Who-Played-with-Fire,6,undirected
+The Giver,Clockwork Princess,2,undirected
+The Giver,SPEAKER-FOR-THE-DEAD-_c_-1986-Orson-Scott-Card,5,undirected
+The Giver,The-Girl-Who-Played-with-Fire,1,undirected
+The Handmaids Tale,Catching Fire ,2,undirected
+The Handmaids Tale,Insurgent,1,undirected
+The Handmaids Tale,The Hunger Games,3,undirected
+The Hunger Games,Catching Fire ,6,undirected
+The Hunger Games,Divergent,1,undirected
+The Hunger Games,Insurgent,3,undirected
+The Hunger Games,Red-Queen,1,undirected
+The Hunger Games,The Handmaids Tale,3,undirected
+The Hunger Games,The Martian,3,undirected
+The Invisible Life of Addie LaRue,Crown of Midnight Throne of Glass,3,undirected
+The Invisible Life of Addie LaRue,Scarlet,1,undirected
+The Invisible Life of Addie LaRue,Throne-of-Glass,2,undirected
+The Last Wish,City of Bones.txt.part,2,undirected
+The Last Wish,Outlander,3,undirected
+The Last Wish,The Lightning Thief,1,undirected
+The Lightning Thief,City of Bones,2,undirected
+The Lightning Thief,City of Bones.txt.part,6,undirected
+The Lightning Thief,Good Omens The Nice and Accurate Prophecies of Agnes Nutter Witch ,3,undirected
+The Lightning Thief,Guards Guards,2,undirected
+The Lightning Thief,Ready-Player-One,2,undirected
+The Lightning Thief,The Last Wish,1,undirected
+The Martian,Catching Fire ,2,undirected
+The Martian,Ready-Player-One,1,undirected
+The Martian,The Hunger Games,3,undirected
+The Maze Runner,Crown of Midnight Throne of Glass,1,undirected
+The Maze Runner,Harry Potter and the Chamber of Secrets,2,undirected
+The Maze Runner,Harry Potter and the Sorcerer_s Stone,4,undirected
+The-Girl-Who-Played-with-Fire,Cress,1,undirected
+The-Girl-Who-Played-with-Fire,Outlander,2,undirected
+The-Girl-Who-Played-with-Fire,The Girl with the Dragon Tattoo,6,undirected
+The-Girl-Who-Played-with-Fire,The Giver,1,undirected
+The-One,Catching Fire ,2,undirected
+The-One,Cress,1,undirected
+The-One,Enders Game,1,undirected
+The-One,Insurgent,3,undirected
+Throne-of-Glass,A Court of Thorns and Roses,5,undirected
+Throne-of-Glass,Clockwork Princess,2,undirected
+Throne-of-Glass,Cress,2,undirected
+Throne-of-Glass,Crown of Midnight Throne of Glass,4,undirected
+Throne-of-Glass,Scarlet,5,undirected
+Throne-of-Glass,The Invisible Life of Addie LaRue,2,undirected
